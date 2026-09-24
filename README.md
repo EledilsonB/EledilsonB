@@ -3,7 +3,7 @@
 
 # Eledilson Bernardes Ditore
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A31A2D&center=true&vCenter=true&width=550&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Python+%7C+ETL+%7C+SQL+%7C+Power+BI+%7CGit+&+GitHub;Aprendendo+Machine+Learning+%26+Estatística)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A31A2D&center=true&vCenter=true&width=550&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Python+%7C+ETL+%7C+SQL+%7C+Power+BI+%7CGit+GitHub;Aprendendo+Machine+Learning+%26+Estatística)](https://git.io/typing-svg)
 
 </div>
 
