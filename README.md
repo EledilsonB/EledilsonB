@@ -33,7 +33,7 @@ Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks sepa
 
 <br>
 
-### 🕵️ Detecção de Fraudes em Transações 🚧 *(em andamento)*
+### 🕵️ Detecção de Fraudes *(em andamento)*
 
 Projeto de detecção de fraudes em transações, desenvolvido na conclusão do módulo de Python do bootcamp DIO + Bradesco "Gen & AI - Data Science e Cyber", com foco em modelos de classificação e predição.
 **Stack:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
