@@ -36,7 +36,7 @@ Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks sepa
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eledilson%20Bernardes&theme=youtube-dark&locale=pt&timezone=utf-8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EledilsonB&theme=youtube-dark&locale=pt&timezone=America/Sao_Paulo)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EledilsonB&theme=dark)
 
