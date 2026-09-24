@@ -38,13 +38,19 @@ Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks sepa
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EledilsonB&theme=youtube-dark&locale=pt&timezone=America/Sao_Paulo)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EledilsonB&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EledilsonB&bg_color=0f0f0f&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)
 
-![Trophies](https://github-trophies.vercel.app/?username=EledilsonB&theme=darkhub&column=7&margin-w=10)
+<!-- ![Trophies](https://github-trophies.vercel.app/?username=EledilsonB&theme=darkhub&column=7&margin-w=10)](https://github-stats-extended.vercel.app/api?username=EledilsonB&theme=highcontrast)
+
+![Trophies](https://github-trophies.vercel.app/?username=EledilsonB&theme=dark_dimmed&column=7&margin-w=10&no-bg=true&no-frame=true&title=-Followers,-Issues,-PullRequest) -->
+
 
 ![Contribution Graph](https://ghchart.rshah.org/A31A2D/EledilsonB)
 
-[[cobra aqui]]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EledilsonB/EledilsonB/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EledilsonB/EledilsonB/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
