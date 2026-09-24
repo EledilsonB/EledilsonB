@@ -23,7 +23,7 @@ Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com c
 
 <div align="center">
 
-### 📊 Analises Gorjetas *(em andamento)*
+### 📊 Análises de Gorjetas *(em andamento)*
 
 Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks separados para análise prévia e visualização dos dados.
 **Stack:** Python, Pandas, Numpy, Seaboarn, Matplotlib, Jupyter Notebook
