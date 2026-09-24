@@ -23,7 +23,7 @@ Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com c
 
 <div align="center">
 
-### 📊 Analises_gorjetas *(em andamento)*
+### 📊 Analises Gorjetas *(em andamento)*
 
 Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks separados para análise prévia e visualização dos dados.
 **Stack:** Python, Pandas, Numpy, Seaboarn, Matplotlib, Jupyter Notebook
@@ -33,7 +33,7 @@ Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks sepa
 
 <br>
 
-### 🕵️ Deteccao_Fraudes_em_transacoes 🚧 *(em andamento)*
+### 🕵️ Detecção de Fraudes em Transações 🚧 *(em andamento)*
 
 Projeto de detecção de fraudes em transações, desenvolvido na conclusão do módulo de Python do bootcamp DIO + Bradesco "Gen & AI - Data Science e Cyber", com foco em modelos de classificação e predição.
 **Stack:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
