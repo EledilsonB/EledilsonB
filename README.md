@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Eledilson Bernardes Ditore
@@ -56,4 +56,5 @@ Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks sepa
 [![Email](https://img.shields.io/badge/Email-A31A2D?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:eledilsonbernardes@yahoo.com.br)
 
 </div>
-```
+
+
