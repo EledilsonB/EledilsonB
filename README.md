@@ -27,7 +27,7 @@ Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com c
 
 Análise exploratória de dados (EDA) sobre o dataset `tips`, com notebooks separados para análise prévia e visualização dos dados.
 **Stack:** Python, Pandas, Numpy, Jupyter Notebook
-**Resultados:** [Relatório](src/relatorio.md)
+**Resultados:** [Relatório](https://github.com/EledilsonB/Analises_gorjetas/blob/main/src/relatorio.md)
 
 🔗 [github.com/EledilsonB/Analises_gorjetas](https://github.com/EledilsonB/Analises_gorjetas)
 
