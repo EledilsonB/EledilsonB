@@ -15,7 +15,7 @@ Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com c
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,powerbi,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,git,github,ai)](https://skillicons.dev)
 
 </div>
 
