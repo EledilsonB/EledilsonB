@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com conhecimento básico em Python (Numpy, Pandas), SQL (PostgreSQL) e noções de Power BI e modelagem de dados. Atualmente em busca da primeira oportunidade na área de Dados, com experiência prévia em organização de processos operacionais e gestão de planilhas em Excel.
+Estudante de Ciência de Dados Tecnólogo (Cruzeiro do Sul), 4° período, com conhecimento básico em Python (Numpy, Pandas, scikit-learn), SQL (PostgreSQL) e noções de Power BI e modelagem de dados, aprendendo mais sobre estatística e álgebra linear. Atualmente em busca da primeira oportunidade na área de Dados, com experiência prévia em organização de processos operacionais e gestão de planilhas em Excel.
 
 ## Stack e Ferramentas
 
